@@ -1,0 +1,1 @@
+print("Hobbies: gym , swimming") 
